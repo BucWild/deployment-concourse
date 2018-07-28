@@ -1,0 +1,4 @@
+deployment_name: concourse
+az: z1
+vm_type: default
+network_name: default
